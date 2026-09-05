@@ -55,12 +55,8 @@ a:hover span {
   line-height: 18px;
 }
 
-.logo h2 {
-  margin: 0;
-  font-size: 15px;
+.logo h1 span {
   font-weight: 300;
-  line-height: 1;
-  vertical-align: middle;
 }
 
 .about-content {
